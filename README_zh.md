@@ -1,4 +1,4 @@
-[![Pub](https://img.shields.io/pub/v/dio_http_cache.svg?style=flat)](https://pub.dev/packages/dio_http_cache) 
+[![Pub](https://img.shields.io/pub/v/dio_http_cache_thmoises.svg?style=flat)](https://pub.dev/packages/dio_http_cache_thmoises) 
 
 ### 简介
 
@@ -11,7 +11,7 @@
 
 ```yaml
 dependencies:
-  dio_http_cache: ^0.3.x #latest version
+  dio_http_cache_thmoises: ^1.0.x #latest version
 ```
 
 ### 简单使用

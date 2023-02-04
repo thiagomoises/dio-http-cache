@@ -1,4 +1,4 @@
-import 'package:dio_http_cache/src/store/store_impl.dart';
+import 'package:dio_http_cache_thmoises/src/store/store_impl.dart';
 
 typedef Future<List<int>> Encrypt(List<int> str);
 typedef Future<List<int>> Decrypt(List<int> str);

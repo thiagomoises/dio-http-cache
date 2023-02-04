@@ -1,4 +1,4 @@
-import 'package:dio_http_cache/src/core/obj.dart';
+import 'package:dio_http_cache_thmoises/src/core/obj.dart';
 
 abstract class ICacheStore {
   ICacheStore();

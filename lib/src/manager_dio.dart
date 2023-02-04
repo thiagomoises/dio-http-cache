@@ -2,9 +2,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:dio_http_cache/src/core/config.dart';
-import 'package:dio_http_cache/src/core/manager.dart';
-import 'package:dio_http_cache/src/core/obj.dart';
+import 'package:dio_http_cache_thmoises/src/core/config.dart';
+import 'package:dio_http_cache_thmoises/src/core/manager.dart';
+import 'package:dio_http_cache_thmoises/src/core/obj.dart';
 
 const DIO_CACHE_KEY_TRY_CACHE = "dio_cache_try_cache";
 const DIO_CACHE_KEY_MAX_AGE = "dio_cache_max_age";

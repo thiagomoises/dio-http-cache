@@ -1,4 +1,4 @@
-library dio_http_cache;
+library dio_http_cache_thmoises;
 
 export 'src/builder_dio.dart';
 export 'src/core/config.dart';

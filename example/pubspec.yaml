@@ -1,5 +1,5 @@
-name: dio_http_cache_example
-description: A demo of the dio_http_cache package.
+name: dio_http_cache_thmoises_example
+description: A demo of the dio_http_cache_thmoises package.
 version: 1.0.0+1
 publish_to: none
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio_http_cache:
+  dio_http_cache_thmoises:
     path: ../
 
 dev_dependencies:

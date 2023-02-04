@@ -1,11 +1,11 @@
 import 'dart:convert';
 
 import 'package:crypto/crypto.dart';
-import 'package:dio_http_cache/src/core/config.dart';
-import 'package:dio_http_cache/src/core/obj.dart';
-import 'package:dio_http_cache/src/store/store_disk.dart';
-import 'package:dio_http_cache/src/store/store_impl.dart';
-import 'package:dio_http_cache/src/store/store_memory.dart';
+import 'package:dio_http_cache_thmoises/src/core/config.dart';
+import 'package:dio_http_cache_thmoises/src/core/obj.dart';
+import 'package:dio_http_cache_thmoises/src/store/store_disk.dart';
+import 'package:dio_http_cache_thmoises/src/store/store_impl.dart';
+import 'package:dio_http_cache_thmoises/src/store/store_memory.dart';
 import 'package:sqflite/utils/utils.dart';
 
 class CacheManager {
